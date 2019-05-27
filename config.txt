@@ -1,0 +1,6 @@
+﻿token=NTgyNDk4OTMzMzczMTQwOTky.XOusbQ.c-2Z-KqsfYVzEdjXWyvVAEVl2Yo
+owner=579808920873467904
+prefix= 7
+game= لحن.
+stayinchannel=true
+songinstatus=true 
